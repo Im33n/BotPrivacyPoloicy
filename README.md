@@ -1,1 +1,1 @@
-# BotPrivacyPoloicy
+# BotPrivacyPolicy
